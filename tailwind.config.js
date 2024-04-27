@@ -5,7 +5,8 @@ module.exports = {
       extend: {
         fontFamily: {
             sans: ["Jersey 10", "sans-serif"],
-            display: ["Bagel Fat One", "sans-serif"]
+            display: ["Bagel Fat One", "sans-serif"],
+            
         },
     plugins: [],}
   }}
