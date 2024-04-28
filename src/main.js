@@ -2,6 +2,7 @@ const Typed = require("typed.js");
 const element = new Typed("#message",{
        strings:["Here is", "a little thing about me..."],
        typespeed: 30,
+       loop: true,
 })
 
 const inputEmail= document.getElementById("email");
